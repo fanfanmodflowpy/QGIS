@@ -25,6 +25,7 @@ QGIS3 Processing Port
   * v_net_path.py
   * v_net_steiner.py
   * v_net_visibility.py
+  * v.vol.rst
 * Things to do elsewhere
   * TODO QgsProcessingParameterPoint can't be used anymore.
   * TODO We need NULL QgsProcessingParameterPoint!
